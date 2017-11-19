@@ -95,6 +95,7 @@ void lockFunction()
   }catch(AWTException e){
      println(e);
   }
+  delay(5000);
   lock = false;
 }
 void keyPressed() {

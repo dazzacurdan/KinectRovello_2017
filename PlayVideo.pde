@@ -27,25 +27,25 @@ class PlayVideo
     keySim = new KeystrokeSimulator();
     
     videoMaps.add(new int[][]{
-              {KeyEvent.VK_Q, 64500},
+              {KeyEvent.VK_Q, 105000},
               {KeyEvent.VK_W, 60000},
-              {KeyEvent.VK_E, 63500},
-              {KeyEvent.VK_R, 60600},
-              {KeyEvent.VK_T, 60700},
-              {KeyEvent.VK_Y, 61700}});
+              {KeyEvent.VK_E, 90500},
+              {KeyEvent.VK_R, 66000},
+              {KeyEvent.VK_T, 67000},
+              {KeyEvent.VK_Y, 77000}});
     videoMaps.add(new int[][]{
-              {KeyEvent.VK_A, 61900},
+              {KeyEvent.VK_A, 79000},
               {KeyEvent.VK_S, 60000},
-              {KeyEvent.VK_D, 65100},
-              {KeyEvent.VK_F, 65400},
+              {KeyEvent.VK_D, 111000},
+              {KeyEvent.VK_F, 114000},
               {KeyEvent.VK_G, 60000},
-              {KeyEvent.VK_H, 65000},
+              {KeyEvent.VK_H, 110000},
               {KeyEvent.VK_J, 60000}});
     videoMaps.add(new int[][]{
-              {KeyEvent.VK_Z, 65400},
+              {KeyEvent.VK_Z, 114000},
               {KeyEvent.VK_X, 60000},
               {KeyEvent.VK_C, 60000},
-              {KeyEvent.VK_V, 65500},
+              {KeyEvent.VK_V, 115000},
               {KeyEvent.VK_B, 60000},
               {KeyEvent.VK_N, 60000}});
     
