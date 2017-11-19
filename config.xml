@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Regions>
+  <roi avgColor="FF00FFFF" h="82" id="0" w="61" x="34" y="350">0000FFBD</roi>
+  <roi avgColor="FF00FFFF" h="64" id="1" w="70" x="266" y="371">0000FFBD</roi>
+  <roi avgColor="FF00FFFF" h="60" id="2" w="56" x="509" y="344">0000FFBD</roi>
+</Regions>
